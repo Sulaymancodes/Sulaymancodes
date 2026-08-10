@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Sulaymancodes
-- 👀 I’m interested in Automating my life through tech
-- 🌱 I’m currently learning FullStack Development
-- 📫 I am on Twitter https://twitter.com/RsbSulayman
-- 📧 My email: sulaymancodes@gmail.com
+- Hi, I’m Sulayman
+- Automating my life through tech
+- Software Engineer
+- 📧 Mail: sulaymancodes@gmail.com
 - ⚡ Fun fact: The best time to plant a tree is 25 years ago, the second best time is now
 
 <!---
